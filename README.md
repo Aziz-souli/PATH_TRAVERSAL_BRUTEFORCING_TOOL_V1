@@ -1,4 +1,5 @@
 #PATH_TRAVERSAL_BRUTEFORCING_TOOL_V1
+
 Description:
 This tool is designed to perform path traversal brute-forcing by leveraging a cheat sheet containing potential paths. It automates the process of sending GET requests to a specified URL, testing for vulnerabilities. The tool includes advanced features such as:
 
